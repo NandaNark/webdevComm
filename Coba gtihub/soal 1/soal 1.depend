@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663668985 source:d:\pr-4.2 looping\soal 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
